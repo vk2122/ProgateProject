@@ -1,0 +1,184 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.top-layer {
+    background-color: darkgrey;
+    color: rgb(29, 79, 172);
+    height:240px;
+}
+
+.header-left {
+    float: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 40px;
+    text-align: center;
+}
+
+.profile {
+    float: left;
+    height: 200px;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.between-layer {
+    background-color: mediumseagreen;
+    height: 335px;
+}
+
+.heading {
+    font-size:28px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: normal;
+    color: rgb(51, 37, 102);
+}
+
+.frame1 {
+    font-size: 20px;
+    color: linen;
+    margin-left:30px;
+}
+
+.frame2 {
+    font-size: 20px;
+    color: linen;
+    margin-left:30px;
+}
+
+.middle-layer {
+    background-color: rgb(192, 99, 99);
+    height: 500px;
+}
+.heading1 {
+    font-size: 28px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: normal;
+    color: navy;
+}
+
+.skill {
+    float:left;
+    width: 45%;
+    margin-left:55px;
+}
+
+.skillogo {
+    height:200px;
+    width:250px;
+}
+
+.skill-icon {
+    position: relative;
+}
+
+.skill h3 {
+    font-size: 24px;
+    margin-top: 15px;
+    color: midnightblue;
+    position: absolute;
+}
+
+.txt-content {
+    width:60%;
+    display:inline-block;
+    margin-top:45px;
+    font-size:20px;
+    color: rgb(38, 70, 7);
+    
+}
+
+.bottom-layer {
+    background-color: darkcyan;
+    height: 550px;
+}
+
+.heading2 {
+    font-size: 28px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: normal;
+    color: rgb(198, 212, 71);  
+}
+
+.inter {
+    float:left;
+    width:30%;
+    margin-left:15px;
+}
+
+.interlogo {
+    height: 210px;
+    width: 300px;
+}
+
+.inter-icon {
+    position: relative;
+}
+
+.inter h5 {
+    font-size: 24px;
+    margin-top: 15px;
+    color: rgba(165, 13, 102, 0.753);
+    position: absolute;
+}
+
+.txt-contents {
+    width:75%;
+    display:inline-block;
+    margin-top:45px;
+    font-size:20px;
+    color: moccasin;
+}
+
+footer {
+    background-color: rgb(132, 83, 167);
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+}
+
+.twitter {
+    background-color: #55acee;
+}
+
+.linked {
+    background-color: darkslateblue;
+    margin-left: 10px;
+}
+
+.email {
+    background-color: firebrick;
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+
+.contact-me h2 {
+    color: ghostwhite;
+}
+
+.contact-me p {
+    background-color: ghostwhite;
+}
